@@ -1,2 +1,35 @@
-# awesome-ai-startups
-List of awesome startups building AI products
+# Awesome AI Startups
+
+## London
+- ThinkChain
+- Evise
+- SAentify
+- Aligned
+- UsefulBird
+- Utterworks
+- MyVoice
+- HaiX
+- AgileRL
+- Deep Medical
+- Sentai
+- Maekersuite
+- Patterned
+- Vokel
+- Lerno
+- Jiva
+- Veracious
+- Boltzbit
+- Cogna
+- Conjecture
+- Context
+- Glyphic
+- Haiper
+- Mystic
+- NeuralSpace
+- Papercup
+- Quix
+- Synativ
+- TitanML
+- TurinTech
+- Unify
+- Xrai Glass
