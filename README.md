@@ -1,16 +1,14 @@
 # Awesome AI Startups
 
 ## London
-Certainly! Here's the list converted into a Markdown table:
 
-```markdown
 | Name          | Description      | URL           | Founded | Last Time Raised | # Employees | # Total Raised | Jobs Website   |
 |---------------|------------------|---------------|---------|-------------------|-------------|-----------------|-----------------|
-| ThinkChain    |                  |               |         |                   |             |                 |                 |
-| Evise         |                  |               |         |                   |             |                 |                 |
+| ThinkChain    | fsfgsfgsfgsfgsfgsfgs                 |               |         |                   |             |                 |                 |
+| Evise         |                  |               |      fadfadfadfadfa   |                   |             |                 |                 |
 | SAentify      |                  |               |         |                   |             |                 |                 |
 | Aligned       |                  |               |         |                   |             |                 |                 |
-| UsefulBird    |                  |               |         |                   |             |                 |                 |
+| UsefulBird    |                  |               |         |                   |    fadfadfafda         |                 |                 |
 | Utterworks    |                  |               |         |                   |             |                 |                 |
 | MyVoice       |                  |               |         |                   |             |                 |                 |
 | HaiX          |                  |               |         |                   |             |                 |                 |
@@ -38,7 +36,6 @@ Certainly! Here's the list converted into a Markdown table:
 | TurinTech     |                  |               |         |                   |             |                 |                 |
 | Unify         |                  |               |         |                   |             |                 |                 |
 | Xrai Glass    |                  |               |         |                   |             |                 |                 |
-```
 
 Please replace the empty cells with the relevant information for each company.
 - ThinkChain
