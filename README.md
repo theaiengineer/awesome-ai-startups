@@ -1,6 +1,7 @@
 # Awesome AI Startups
 
-| Name          | Location   | Description      | URL           | Founded | Last Time Raised | # Employees | # Total Raised | Jobs Website   || [ThinkChain](/startups/thinkchain.md) | | | | | | | | |
+| Name          | Location   | Description      | URL           | Founded | Last Time Raised | # Employees | # Total Raised | Jobs Website   |
+| [ThinkChain](/startups/thinkchain.md) | | | | | | | | |
 | [Evise](/startups/evise.md) | | | | | | | | |
 | [SAentify](/startups/saentify.md) | | | | | | | | |
 | [Aligned](/startups/aligned.md) | | | | | | | | |
