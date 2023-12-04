@@ -69,3 +69,4 @@
 | [Character.ai](/startups/character.ai.md) | | | | | | | | |
 | [Temporal](/startups/temporal.md) | | | | | | | | |
 | [StabilityAI](/startups/stabilityai.md) | | | | | | | | |
+| [beam.ai](/startups/beam.ai.md) | | | | | | | | |
