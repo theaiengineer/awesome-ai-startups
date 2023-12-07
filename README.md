@@ -70,3 +70,4 @@
 | [Temporal](/startups/temporal.md) | | | | | | | | |
 | [StabilityAI](/startups/stabilityai.md) | | | | | | | | |
 | [beam.ai](/startups/beam.ai.md) | | | | | | | | |
+| [superlinked](/startups/superlinked.md) | | | | | | | | |
