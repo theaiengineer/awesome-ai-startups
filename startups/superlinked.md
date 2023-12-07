@@ -7,9 +7,9 @@ Superlinked allows users to combine data types into a shared vector embedding sp
 The key differentiation is that you retain complete control over what data goes into your vector space and the relative importance of each data type. It makes Superlinked a more transparent, customizable, and responsible approach to AI.
 
 Some potential use cases include:
-🕵️ Fraud detection that combines transaction, location, and device data.
-🎯 Ultra-personalized recommendations that factor in preferences, browse history, and more.
-🔍 Semantic search that understands meaning and connections across content.
+- 🕵️ Fraud detection that combines transaction, location, and device data.
+- 🎯 Ultra-personalized recommendations that factor in preferences, browse history, and more.
+- 🔍 Semantic search that understands meaning and connections across content.
 
 Superlinked is building the future of AI with generative models and vector embeddings. They aim to democratize access to advanced AI while ensuring thoughtful oversight over its application.
 
