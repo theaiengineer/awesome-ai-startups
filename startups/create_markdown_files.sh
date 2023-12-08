@@ -12,17 +12,17 @@ for name in "$@"; do
     lowercase_name=$(echo "$name" | tr '[:upper:]' '[:lower:]')
     
     # Create markdown file
-    echo "# $name" > "$lowercase_name.md"
-    echo "## Description" >> "$lowercase_name.md"
-    echo "## Founding Team" >> "$lowercase_name.md"
-    echo "## Investment Stage" >> "$lowercase_name.md"
-    echo "## Unique Achievement" >> "$lowercase_name.md"
-    echo "## Top Challenge" >> "$lowercase_name.md"
+    echo "# $name" > "$lowercase_name/$lowercase_name.md"
+    echo "## Description" >> "$lowercase_name/$lowercase_name.md"
+    echo "## Founding Team" >> "$lowercase_name/$lowercase_name.md"
+    echo "## Investment Stage" >> "$lowercase_name/$lowercase_name.md"
+    echo "## Unique Achievement" >> "$lowercase_name/$lowercase_name.md"
+    echo "## Top Challenge" >> "$lowercase_name/$lowercase_name.md"
 
     # Update README.md
     readme_file="../README.md"
 
     # Add a new row to the table
-    new_row="| [$name](/startups/$lowercase_name.md) | | | | | | | | |"
+    new_row="| [$name](/startups/$lowercase_name/$lowercase_name.md) | | | | | | | | |"
     echo "$new_row" >> "$readme_file"
 done

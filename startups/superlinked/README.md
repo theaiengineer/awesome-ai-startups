@@ -1,5 +1,5 @@
 ---
-updatedAt: 2023-12-08T15:23:18.999Z
+updatedAt: 2023-12-08T19:06:39.638Z
 url: https://superlinked.com
 websiteMetadataDownloadedAt: 2023-12-08T15:23:18.998Z
 websiteMetadata:
