@@ -1,3 +1,6 @@
+---
+url: https://superlinked.com
+---
 # Superlinked
 ## Description
 Meet Superlinked: The Vector Compute Startup Democratizing AI. Superlinked is our AI startup of the day! The team led by Ben is building a vector compute infrastructure platform that puts more control of AI in the hands of organizations and individuals.
