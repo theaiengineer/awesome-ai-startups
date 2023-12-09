@@ -1,4 +1,5 @@
-# Mystic
+# Mystic AI
+[![Mystic AI with Oscar Rovira](https://img.youtube.com/vi/icEtbIusPEM/0.jpg)](https://www.youtube.com/watch?v=icEtbIusPEM)
 ## Description
 Meet Mystic AI: Democratizing Access to AI Infrastructure. We are excited to highlight Mystic as today's featured AI startup! 🚀 The team around Oscar Rovira ✨ is trying to make deploying and scaling Machine Learning models radically easier. 🆙
 
@@ -21,7 +22,10 @@ Let us know what other AI infrastructure startups you think are expanding access
 * Official Website: https://mystic.ai/
 * Discord Server: https://discord.com/invite/7REbAX5v3N
 * X Page: https://twitter.com/mysticdotai
-* Mystic AI Profile at The AI Engineer
+* Mystic AI Profile at The AI Engineer: https://github.com/theaiengineer/awesome-ai-startups/blob/main/startups/mysticai/README.md
+* LinkedIn announcement: https://www.linkedin.com/feed/update/urn:li:activity:7139385689585991680
+* Twitter announcement: https://twitter.com/theaiengineerco/status/1733622194507260156
+* YouTube video: https://youtu.be/icEtbIusPEM
 
 ## Founding Team
 - Oscar Rovira
