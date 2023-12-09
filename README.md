@@ -5,7 +5,7 @@
 | [ThinkChain](/startups/thinkchain.md) | | | | | | | | |
 | [Evise](/startups/evise.md) | | | | | | | | |
 | [SAentify](/startups/saentify.md) | | | | | | | | |
-| [Aligned](/startups/aligned.md) | | | | | | | | |
+| [Aligned](/startups/aligned-ai/README.md) | | | | | | | | |
 | [UsefulBird](/startups/usefulbird.md) | | | | | | | | |
 | [Utterworks](/startups/utterworks.md) | | | | | | | | |
 | [MyVoice](/startups/myvoice.md) | | | | | | | | |
@@ -25,7 +25,7 @@
 | [Context](/startups/context.md) | | | | | | | | |
 | [Glyphic](/startups/glyphic.md) | | | | | | | | |
 | [Haiper](/startups/haiper.md) | | | | | | | | |
-| [Mystic](/startups/mystic.md) | | | | | | | | |
+| [Mystic AI](/startups/mysticai/README.md) | | | | | | | | |
 | [NeuralSpace](/startups/neuralspace.md) | | | | | | | | |
 | [Papercup](/startups/papercup.md) | | | | | | | | |
 | [Quix](/startups/quix.md) | | | | | | | | |
@@ -33,7 +33,7 @@
 | [TitanML](/startups/titanml.md) | | | | | | | | |
 | [TurinTech](/startups/turintech.md) | | | | | | | | |
 | [Unify](/startups/unify.md) | | | | | | | | |
-| [XraiGlass](/startups/xraiglass.md) | | | | | | | | |
+| [XraiGlass](/startups/xraiglass/README.md) | | | | | | | | |
 | [ggml](/startups/ggml.md) | | | | | | | | |
 | [guardrails](/startups/guardrails.md) | | | | | | | | |
 | [voyageAI](/startups/voyageai.md) | | | | | | | | |
@@ -70,4 +70,4 @@
 | [Temporal](/startups/temporal.md) | | | | | | | | |
 | [StabilityAI](/startups/stabilityai.md) | | | | | | | | |
 | [beam.ai](/startups/beam.ai.md) | | | | | | | | |
-| [superlinked](/startups/superlinked.md) | | | | | | | | |
+| [superlinked](/startups/superlinked/README.md) | | | | | | | | |
