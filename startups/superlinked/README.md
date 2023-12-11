@@ -1,13 +1,32 @@
 ---
 url: https://superlinked.com
 metadataUrl: https://hub.superlinked.com
-updatedAt: 2023-12-11T12:31:08.873Z
+updatedAt: 2023-12-11T13:07:32.974Z
 crawlerOptions:
   metadata:
     waitDelayInMillis: 200
   screenshot:
     waitForXPath: //div[@class="loader_number" and text()="100%"]
     waitDelayInMillis: 1000
+websiteMetadata:
+  websiteMetadataDownloadedAt: 2023-12-11T13:01:14.077Z
+  audio: null
+  author: null
+  date: null
+  description: Learn about VectorHub, a free and open-source learning hub for
+    adding vector retrieval to machine learning projects. Discover learning
+    materials to create MVPs, overcome use-case challenges, and advance projects
+    to production. Access valuable information
+  feed: null
+  image: https://archbee-image-uploads.s3.amazonaws.com/mOIZZ8ENhHktqQPK5tYA7/B9YQJt13NbXI9iIhnTa_2_githubopengraph.png
+  lang: en
+  logo: https://archbee-image-uploads.s3.amazonaws.com/mOIZZ8ENhHktqQPK5tYA7/vn5-Nne5f4A7SnlvG0Ysc_symboldark.png
+  publisher: VectorHub
+  title: Home - VectorHub
+  video: null
+  url: https://hub.superlinked.com
+screenshot:
+  lastDownloadedAt: 2023-12-11T13:01:22.303Z
 ---
 
 # Superlinked
