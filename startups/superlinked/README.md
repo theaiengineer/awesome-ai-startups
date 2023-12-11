@@ -1,7 +1,7 @@
 ---
 url: https://superlinked.com
 contentUrl: https://hub.superlinked.com
-updatedAt: 2023-12-11T13:39:48.844Z
+updatedAt: 2023-12-11T14:58:13.882Z
 crawlerOptions:
   content:
     waitDelayInMillis: 200
