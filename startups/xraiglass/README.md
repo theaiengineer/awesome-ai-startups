@@ -1,8 +1,8 @@
 ---
 url: https://xrai.glass
-updatedAt: 2023-12-11T13:07:32.962Z
+updatedAt: 2023-12-11T13:39:49.240Z
 websiteMetadata:
-  websiteMetadataDownloadedAt: 2023-12-11T11:50:38.370Z
+  websiteMetadataDownloadedAt: 2023-12-11T13:39:49.240Z
   audio: null
   author: null
   date: 2023-12-08T10:29:53.000Z

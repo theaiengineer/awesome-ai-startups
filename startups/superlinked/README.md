@@ -1,7 +1,7 @@
 ---
 url: https://superlinked.com
 contentUrl: https://hub.superlinked.com
-updatedAt: 2023-12-11T13:07:32.974Z
+updatedAt: 2023-12-11T13:39:48.844Z
 crawlerOptions:
   content:
     waitDelayInMillis: 200
@@ -9,7 +9,7 @@ crawlerOptions:
     waitForXPath: //div[@class="loader_number" and text()="100%"]
     waitDelayInMillis: 1000
 websiteMetadata:
-  websiteMetadataDownloadedAt: 2023-12-11T13:01:14.077Z
+  websiteMetadataDownloadedAt: 2023-12-11T13:39:48.844Z
   audio: null
   author: null
   date: null
@@ -30,6 +30,7 @@ screenshot:
 ---
 
 # Superlinked
+
 [![Superlinked with Ben Gutkovich](https://img.youtube.com/vi/3VvzK8z197Y/0.jpg)](https://www.youtube.com/watch?v=3VvzK8z197Y)
 
 ## Description
