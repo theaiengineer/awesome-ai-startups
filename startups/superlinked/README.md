@@ -1,9 +1,9 @@
 ---
 url: https://superlinked.com
-metadataUrl: https://hub.superlinked.com
+contentUrl: https://hub.superlinked.com
 updatedAt: 2023-12-11T13:07:32.974Z
 crawlerOptions:
-  metadata:
+  content:
     waitDelayInMillis: 200
   screenshot:
     waitForXPath: //div[@class="loader_number" and text()="100%"]
