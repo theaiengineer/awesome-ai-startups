@@ -1,6 +1,6 @@
 ---
 url: https://buildaligned.ai
-updatedAt: 2023-12-11T11:52:56.093Z
+updatedAt: 2023-12-11T12:58:45.909Z
 websiteMetadata:
   websiteMetadataDownloadedAt: 2023-12-11T11:50:35.882Z
   audio: null
