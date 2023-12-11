@@ -24,7 +24,7 @@
 | [Conjecture](/startups/conjecture.md) | | | | | | | | |
 | [Context](/startups/context.md) | | | | | | | | |
 | [Glyphic](/startups/glyphic.md) | | | | | | | | |
-| [Haiper](/startups/haiper.md) | | | | | | | | |
+| [Haiper](/startups/haiper/README.md) | | | | | | | | |
 | [Mystic AI](/startups/mysticai/README.md) | | | | | | | | |
 | [NeuralSpace](/startups/neuralspace.md) | | | | | | | | |
 | [Papercup](/startups/papercup.md) | | | | | | | | |
