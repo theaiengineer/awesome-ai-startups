@@ -1,22 +1,23 @@
 ---
-updatedAt: 2023-12-08T19:06:39.638Z
 url: https://superlinked.com
-websiteMetadataDownloadedAt: 2023-12-08T15:23:18.998Z
+updatedAt: 2023-12-11T11:52:56.102Z
+crawler:
+  wait: document.getElementsByClassName('loader_number').length < 0 ||
+    document.getElementsByClassName('loader_number')[0].innerHTML === '100%'
 websiteMetadata:
   audio: null
   author: null
-  date: 2023-12-08T15:23:09.000Z
+  date: null
   description: null
   feed: null
   image: https://assets-global.website-files.com/64f9dd739f984c15f86e446e/65008f691ed927cc1d7ba7d7_og%20image%402x.jpg
-  iframe: null
   lang: null
   logo: https://assets-global.website-files.com/64f9dd739f984c15f86e446e/6500a75cef3904bf14654e76_FAVICON.png
-  publisher: superlinked.com
+  publisher: The data engineer’s solution to turning data into vector embeddings.
   title: Superlinked - The data engineer’s solution to turning data into vector
     embeddings.
   video: null
-  url: https://www.superlinked.com/
+  url: https://superlinked.com
 ---
 
 # Superlinked

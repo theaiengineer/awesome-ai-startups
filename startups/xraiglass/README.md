@@ -1,22 +1,24 @@
 ---
-updatedAt: 2023-12-08T19:06:36.870Z
 url: https://xrai.glass
-websiteMetadataDownloadedAt: 2023-12-08T18:53:42.708Z
+updatedAt: 2023-12-11T11:52:56.105Z
 websiteMetadata:
+  websiteMetadataDownloadedAt: 2023-12-11T11:50:38.370Z
   audio: null
   author: null
-  date: 2023-07-28T13:58:01.000Z
-  description: Unsere preisgekrönte App wandelt Audio in Bilder um und ermöglicht
-    es einer Datenbrille, Sprache in Echtzeit in Untertitel umzuwandeln. Jetzt
-    für iOS und Android verfügbar.
-  feed: https://xrai.glass/de/feed/
+  date: 2023-12-08T10:29:53.000Z
+  description: Our award-winning app converts audio into visuals, allowing a pair
+    of smart glasses to turn speech into subtitles in real-time. Now available
+    on iOS and Android.
+  feed: https://xrai.glass/feed/
   image: https://xrai.glass/wp-content/uploads/2023/07/xrai-glass.png
-  lang: de
+  lang: en
   logo: https://xrai.glass/wp-content/uploads/2023/07/cropped-Favicon-01-270x270.png
   publisher: XRAI Glass
-  title: XRAI Glas | Leben. Untertitel
+  title: XRAI Glass | Life. Subtitled
   video: null
-  url: https://xrai.glass/de/
+  url: https://xrai.glass/
+screenshot:
+  lastDownloadedAt: 2023-12-11T11:50:47.523Z
 ---
 # XraiGlass
 ## Description
