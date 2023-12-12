@@ -1,25 +1,36 @@
 ---
-updatedAt: 2023-12-08T19:06:39.638Z
 url: https://superlinked.com
-websiteMetadataDownloadedAt: 2023-12-08T15:23:18.998Z
+contentUrl: https://hub.superlinked.com
+updatedAt: 2023-12-11T14:58:13.882Z
+crawlerOptions:
+  content:
+    waitDelayInMillis: 200
+  screenshot:
+    waitForXPath: //div[@class="loader_number" and text()="100%"]
+    waitDelayInMillis: 1000
 websiteMetadata:
+  websiteMetadataDownloadedAt: 2023-12-11T13:39:48.844Z
   audio: null
   author: null
-  date: 2023-12-08T15:23:09.000Z
-  description: null
+  date: null
+  description: Learn about VectorHub, a free and open-source learning hub for
+    adding vector retrieval to machine learning projects. Discover learning
+    materials to create MVPs, overcome use-case challenges, and advance projects
+    to production. Access valuable information
   feed: null
-  image: https://assets-global.website-files.com/64f9dd739f984c15f86e446e/65008f691ed927cc1d7ba7d7_og%20image%402x.jpg
-  iframe: null
-  lang: null
-  logo: https://assets-global.website-files.com/64f9dd739f984c15f86e446e/6500a75cef3904bf14654e76_FAVICON.png
-  publisher: superlinked.com
-  title: Superlinked - The data engineer’s solution to turning data into vector
-    embeddings.
+  image: https://archbee-image-uploads.s3.amazonaws.com/mOIZZ8ENhHktqQPK5tYA7/B9YQJt13NbXI9iIhnTa_2_githubopengraph.png
+  lang: en
+  logo: https://archbee-image-uploads.s3.amazonaws.com/mOIZZ8ENhHktqQPK5tYA7/vn5-Nne5f4A7SnlvG0Ysc_symboldark.png
+  publisher: VectorHub
+  title: Home - VectorHub
   video: null
-  url: https://www.superlinked.com/
+  url: https://hub.superlinked.com
+screenshot:
+  lastDownloadedAt: 2023-12-11T13:01:22.303Z
 ---
 
 # Superlinked
+
 [![Superlinked with Ben Gutkovich](https://img.youtube.com/vi/3VvzK8z197Y/0.jpg)](https://www.youtube.com/watch?v=3VvzK8z197Y)
 
 ## Description
