@@ -1,6 +1,6 @@
 ---
 url: https://xrai.glass
-updatedAt: 2023-12-11T14:58:13.871Z
+updatedAt: 2023-12-12T16:30:55.524Z
 websiteMetadata:
   websiteMetadataDownloadedAt: 2023-12-11T13:39:49.240Z
   audio: null
@@ -20,7 +20,7 @@ websiteMetadata:
 screenshot:
   lastDownloadedAt: 2023-12-11T11:50:47.523Z
 ---
-# XraiGlass
+# XRAI Glass
 ## Description
 ## Founding Team
 ## Investment Stage
