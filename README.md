@@ -71,5 +71,5 @@
 | [StabilityAI](/startups/stabilityai.md) | | | | | | | | |
 | [beam.ai](/startups/beam.ai.md) | | | | | | | | |
 | [superlinked](/startups/superlinked/README.md) | | | | | | | | |
-| [bind](/startups/bind/bind.md) | | | | | | | | |
 | [bind](/startups/bind/README.md) | | | | | | | | |
+| [NexusTrade](/startups/nexustrade/README.md) | | | | | | | | |
