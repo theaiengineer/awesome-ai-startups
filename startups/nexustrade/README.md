@@ -20,17 +20,13 @@ The company can help level the playing field for traders of all skill levels. �
 
 What future capabilities could further democratize algorithmic investing? Let us know your thoughts! ✍️
 
-🧙🏽 Follow The AI Engineer for more about NexusTrade and daily insights tailored to AI engineers. Subscribe to our newsletter. We are the AI community for hackers!
-
-♻️ Repost this to help NexusTrade become more popular. Support AI Startups!
-
-⚠️ If you want us to highlight your favorite AI company, startup, or not, please share it in the comments section!
-
 🖇️ Links for NexusTrade:
 
 * Official Website: https://nexustrade.io/
 
 * Official Announcement: https://medium.datadriveninvestor.com/i-built-nexustrade-the-most-advanced-stock-paper-trading-platform-to-ever-exist-4997bc52d51e
+
+* Profile at The AI Engineer: https://github.com/theaiengineer/awesome-ai-startups/blob/main/startups/nexustrade/README.md
 
 ## Founding Team
 - Austin Starks
