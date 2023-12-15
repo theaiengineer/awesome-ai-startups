@@ -3,7 +3,7 @@ url: https://superduperdb.com/
 ---
 
 # SuperDuperDB
-[![SuperDuperDB with XXXX](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![SuperDuperDB with Timo Hagenow](https://img.youtube.com/vi/OHAS7AeNIYg/0.jpg)](https://www.youtube.com/watch?v=OHAS7AeNIYg)
 ## Description
 Supercharging Databases with SuperDuperDB's Versatile AI Integration ⚡️Data transforms from static archives 🗄️ to active assets in an AI-driven world. 💎 
 
