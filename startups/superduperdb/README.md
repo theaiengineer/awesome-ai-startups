@@ -25,8 +25,10 @@ What other data-native approaches excite you in AI's evolution? 🤔 How could c
 - Official Website: https://superduperdb.com/
 - Profile at The AI Engineer: https://github.com/theaiengineer/awesome-ai-startups/blob/main/startups/superduperdb/README.md
 
-🧙🏽 Follow The AI Engineer for more about SuperDuperDB and daily insights tailored to AI engineers. Subscribe to our newsletter. We are the AI community for hackers! 
+🧙🏽 Follow The AI Engineer for more about SuperDuperDB and daily insights tailored to AI engineers. Subscribe to our newsletter. We are the AI community for hackers!
+
 ♻️ Repost this to help SuperDuperDB become more popular. Support AI Startups! 
+
 ⚠️ If you want us to highlight your favorite AI company, startup, or not, please share it in the comments section. 
 
 ## Founding Team
