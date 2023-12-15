@@ -11,3 +11,4 @@
 | [superlinked](/startups/superlinked/README.md) | | | | | | | | |
 | [bind](/startups/bind/README.md) | | | | | | | | |
 | [NexusTrade](/startups/nexustrade/README.md) | | | | | | | | |
+| [SuperDuperDB](/startups/superduperdb/README.md) | | | | | | | | |
