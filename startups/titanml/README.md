@@ -1,3 +1,24 @@
+---
+url: https://www.titanml.co
+updatedAt: 2023-12-13T08:40:44.714Z
+websiteMetadata:
+  websiteMetadataDownloadedAt: 2023-12-13T08:37:12.247Z
+  audio: null
+  author: null
+  date: null
+  description: Faster, cheaper, and easier LLM deployments with the Titan Takeoff
+    Inference Server.
+  feed: null
+  image: https://assets-global.website-files.com/645d0b6755509905d1adbb36/6495a5df43c7dfaf4ccb2310_Open-Graph.jpg
+  lang: en
+  logo: https://assets-global.website-files.com/649f003940a53a75a2e42034/649f003940a53a75a2e4203c_titan-fav.png
+  publisher: Titan logo white
+  title: The best way to deploy LLMs
+  video: null
+  url: https://www.titanml.co
+screenshot:
+  lastDownloadedAt: 2023-12-13T08:37:16.901Z
+---
 # TitanML
 [![TitanML AI with Meryem Arik](https://img.youtube.com/vi/HV_XDlh24eM/0.jpg)](https://www.youtube.com/watch?v=HV_XDlh24eM)
 ## Description
